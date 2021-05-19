@@ -9,7 +9,6 @@ public class MonkeyBananaTriggerClass {
      public static List<Monkey_Banana__c> MBT = new List<Monkey_Banana__c>();
      // +++++++++++++++++++++  Attributes/Getter-Setter  ++++++++++++++++++++++++++++++ //
      // +++++++++++++++++++++  Constructor    ++++++++++++++++++++++++++++++ //
-     // +++++++++++++++++++++  Methods    ++++++++++++++++++++++++++++++ //
     
     
     

@@ -156,7 +156,7 @@
     <label>Monkey Banana</label>
     <nameField>
         <displayFormat>{000}</displayFormat>
-        <label>Monkey Banana Name</label>
+        <label>Monkey Banana Nme</label>
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Monkey Bananas</pluralLabel>
